@@ -1,6 +1,6 @@
 import React from 'react';
 import { Path, Control, Controller, FieldValues } from "react-hook-form";
-import { FormControl, FormDescription, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
+import { FormControl, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
 
 // 1. Define props interface
